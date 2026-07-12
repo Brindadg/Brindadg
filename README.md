@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brindadg
 - 👀 I’m interested in learning more of technology and curious in building software
-- 🌱 I’m currently pursuing electrical engineering
+- 🌱 I’m currently pursuing electrical engineering and focusing my goals mainly in software.
 - 😄 Pronouns: she/her
   
 
